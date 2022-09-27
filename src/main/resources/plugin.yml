@@ -1,0 +1,6 @@
+name: Exampleplugin
+version: '${version}'
+main: de.otto.minecrafttutorium.exampleplugin.Exampleplugin
+api-version: 1.19
+authors: [ Mika, Janik ]
+description: Example Plugin for Minecraft Paper 1.19.2
