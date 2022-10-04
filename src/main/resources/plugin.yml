@@ -4,3 +4,11 @@ main: de.otto.minecrafttutorium.exampleplugin.Exampleplugin
 api-version: 1.19
 authors: [ Mika, Janik ]
 description: Example Plugin for Minecraft Paper 1.19.2
+
+commands:
+  scare:
+    description: Scares you
+    usage: /scare <number between 1 and 3>
+  firesword:
+    description: Gives you a firesword
+    usage: /firesword

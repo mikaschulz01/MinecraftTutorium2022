@@ -42,3 +42,6 @@ https://jd.papermc.io/paper/1.19/org/bukkit/Material.html
 
 https://jd.papermc.io/paper/1.19/org/bukkit/enchantments/Enchantment.html
 
+## Farbcodes
+
+https://minecraft.fandom.com/wiki/Formatting_codes
