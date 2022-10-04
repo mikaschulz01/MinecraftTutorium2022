@@ -1,7 +1,5 @@
 [Zurück zur Hauptseite](../README.md)
 
-[Zurück zur Hauptseite](../README.md)
-
 # Java Dokumentation zu PaperMC
 
 ## Übersicht

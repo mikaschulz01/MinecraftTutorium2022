@@ -5,6 +5,8 @@ plugins {
 group = 'de.otto.minecrafttutorium'
 version = '1.0'
 
+def outputDirectory = "server/plugins/"
+
 repositories {
     mavenCentral()
     maven {
@@ -35,6 +37,10 @@ tasks.withType(JavaCompile).configureEach {
     if (targetJavaVersion >= 10 || JavaVersion.current().isJava10Compatible()) {
         options.release = targetJavaVersion
     }
+}
+
+tasks.withType(Jar) {
+    destinationDir = file(outputDirectory)
 }
 
 processResources {
