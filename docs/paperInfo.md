@@ -10,9 +10,10 @@ die Möglichkeit geben, ihre Server mit neuen Funktionalitäten auszustatten.
 
 PaperMC ist eine verbesserte Version der Bukkit/Spigot-Server. Paper ist wesentlich schneller,
 blockiert viele Exploits, behebt viele Bugs (einschließlich Vanilla-Bugs die auch in Spigot noch
-nicht behoben sind) und fügt viele weitere Performance orientierte Spielmechaniken hinzu die einzeln
+nicht behoben sind) und fügt viele weitere performanceorientierte Spielmechaniken hinzu, die einzeln
 konfiguriert werden können.
 
-Mehr Infos zu den Funktionalitäten: [Dokumentation zu PaperMC Entwicklung](../docs/paperDocs.md)
+Mehr Informationen zu den Funktionalitäten:
+[Dokumentation zu PaperMC Entwicklung](../docs/paperDocs.md)
 
 Quelle: https://wiki.nitrado.net/de/PaperMC Zugriff: 27.09.2022
