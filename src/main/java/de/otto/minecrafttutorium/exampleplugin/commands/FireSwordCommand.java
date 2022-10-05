@@ -39,7 +39,7 @@ public class FireSwordCommand implements CommandExecutor {
         bukkitTask.cancel();
         player.getInventory().addItem(getFireSword());
       }
-    } , 0, 5);
+    }, 0, 5);
     return true;
   }
 

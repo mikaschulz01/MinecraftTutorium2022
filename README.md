@@ -9,4 +9,5 @@
 - [Dokumentation zu PaperMC Entwicklung](docs/paperDocs.md)
 - [Eigenes PaperMC Projekt anlegen](docs/createPaperPlugin.md)
 - [Projekt zum Plugin exportieren](docs/exportPaperPlugin.md)
+- [Programmierideen](docs/ideas.md)
 
