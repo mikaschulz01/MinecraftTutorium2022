@@ -2,6 +2,8 @@
 
 # Minecraft Installieren und Starten
 
+## Installationsprozess
+
 - Erstelle dir [hier](https://www.minecraft.net/de-de/login) einen Microsoft Account oder melde dich
   in deinem bestehenden Konto an.
 - Falls du noch keine Minecraft Lizenz, löse die von uns bereitgestellte
@@ -11,4 +13,9 @@
   Datei handelt, da es bei der ".exe" Datei zu Problemen auf den Managed Rechnern kommen kann.)
 - Führe den Minecraft Installer aus und folge den Schritten.
 - Starte den Minecraft Launcher und melde dich mit deinem Microsoft Account an.
+
+## Starten und Server beitreten
+
 - Starte die neuste Version von Minecraft (1.19.2)
+- Wenn du deinen lokalen Server betreten möchtest, klicke auf "Multiplayer",
+  "Direct Connection", gebe "localhost" als Serveradresse und klicke auf "Join Server".

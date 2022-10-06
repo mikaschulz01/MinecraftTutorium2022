@@ -3,7 +3,7 @@
 - [Was ihr benötigt](docs/requirements.md)
 - [Was ist Minecraft](docs/minecraftInfo.md)
 - [Was ist PaperMC](docs/paperInfo.md)
-- [Minecraft installieren](docs/minecraftInstall.md)
+- [Minecraft installieren und starten](docs/minecraftInstallAndStart.md)
 - [PaperMC Server aufsetzen](docs/setupPaperMcServer.md)
 - [PaperMC nützliche Server Befehle](docs/paperMcCommands.md)
 - [Dokumentation zu PaperMC Entwicklung](docs/paperDocs.md)

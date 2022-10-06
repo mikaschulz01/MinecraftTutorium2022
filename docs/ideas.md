@@ -8,5 +8,5 @@
 - Weitere Feuerschwert Verzauberungen
 - Einfügen eines Thorhammers (Mjölnir), welcher Blitze erschafft
 - Supersprung (inkl. Ausschalten von Fallschaden)
-- Parkourzeitnmessung (Anfang- und Endzeit durch z.B. eine Art "Lichtschranke" messen)
+- Parkourzeitmessung (Anfang- und Endzeit durch z.B. eine Art "Lichtschranke" messen)
 - ...
