@@ -1,4 +1,4 @@
-# Minecraft Tutorium 2022
+# Minecraft Project
 
 - [Was ihr benötigt](docs/requirements.md)
 - [Was ist Minecraft](docs/minecraftInfo.md)
