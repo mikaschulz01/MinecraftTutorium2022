@@ -1,3 +1,3 @@
 @echo off
-java -Xms4G -jar paper.jar --nogui
+java -Dcom.mojang.eula.agree=true -Xms4G -jar paper.jar --nogui
 pause
