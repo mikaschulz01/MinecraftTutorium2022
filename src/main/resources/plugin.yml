@@ -12,3 +12,12 @@ commands:
   firesword:
     description: Gives you a firesword
     usage: /firesword
+  chatcolor:
+    description: Changes your chatcolor
+    usage: /chatcolor [<HEX>] [<R>, <G>, <B>]
+  nickname:
+    description: Changes your nickname
+    usage: /nickname <nickname>
+  tpworld:
+    description: Teleport in a world
+    usage: /tpworld <world> <x> <y> <z>
